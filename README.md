@@ -2,6 +2,13 @@
 
 This repository contains a curated list of resources for learning about Artificial Intelligence, Machine Learning, and Deep Learning.
 
+##군입대 전 계획
+1.파이썬 추월코스
+2. 개발자를 위한 선형대수
+3. 딥러닝 Andrew ng  -> 밑바닥 딥러닝 
+4. 확률론 (이충락 or 하버드)
+
+
 ## Table of Contents
 - [Korean Lectures](#korean-lectures)
 - [Online Learning Platforms](#online-learning-platforms)

@@ -91,6 +91,59 @@ Here's a suggested learning path for AI, Machine Learning, and Computer Science:
 8. **AI Ethics and Business Applications**
    - AI for Everyone
    - Deep Learning for Business
+  
+
+
+
+## 1. 수학 기초
+1. MIT 18.06: Linear Algebra (Gilbert Strang)
+2. MIT 6.042J: Mathematics for Computer Science
+3. Harvard Statistics 110: Probability (Joe Blitzstein)
+
+## 2. 컴퓨터 과학 기초
+1. MIT 6.0001: Introduction to Computer Science and Programming in Python
+2. Stanford CS106B: Programming Abstractions (C++)
+3. MIT 6.006: Introduction to Algorithms
+
+## 3. 머신러닝 입문
+1. Stanford CS229: Machine Learning (Andrew Ng)
+2. Caltech CS156: Learning from Data (Yaser Abu-Mostafa)
+
+## 4. 딥러닝 기초
+1. MIT 6.S191: Introduction to Deep Learning
+2. Stanford CS230: Deep Learning (Andrew Ng)
+
+## 5. 컴퓨터 비전
+1. Stanford CS231n: Convolutional Neural Networks for Visual Recognition
+2. Michigan EECS498-007 / 598-005: Deep Learning for Computer Vision
+
+## 6. 자연어 처리
+1. Stanford CS224n: Natural Language Processing with Deep Learning
+2. CMU CS11-747: Neural Networks for NLP
+
+## 7. 강화학습
+1. Stanford CS234: Reinforcement Learning
+2. UC Berkeley CS285: Deep Reinforcement Learning
+
+## 8. 고급 주제
+1. Stanford CS330: Deep Multi-Task and Meta Learning
+2. MIT 6.S897: Machine Learning for Healthcare
+3. Stanford CS236: Deep Generative Models
+
+## 9. AI 윤리 및 사회적 영향
+1. Harvard CS108: Intelligent Systems: Design and Ethical Challenges
+2. MIT 6.S099: Artificial General Intelligence
+
+## 10. 최신 AI 연구 동향
+1. MIT 6.S965: TinyML and Efficient Deep Learning Computing
+2. Stanford CS324: Large Language Models
+3. Berkeley CS294: Deep Unsupervised Learning
+
+## 추가 자료
+- Fast.ai: Practical Deep Learning for Coders
+- DeepMind x UCL: Deep Learning Lecture Series
+- Google AI: Machine Learning Crash Course
+
 
 9. **Advanced Topics and Research**
    - Read and implement recent AI papers

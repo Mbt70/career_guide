@@ -150,3 +150,42 @@ Here's a suggested learning path for AI, Machine Learning, and Computer Science:
    - Participate in AI competitions (Kaggle, etc.)
 
 Remember, this is a suggested path. Feel free to adjust based on your interests and goals!
+
+
+
+
+# Stanford AI Course Catalog
+
+## Required Courses (Complete at least 1)
+
+| Course Code | Course Title | Delivery | Status |
+|-------------|--------------|----------|--------|
+| CS221 | Artificial Intelligence: Principles and Techniques | Online, instructor-led | Not Yet Available |
+| CS229 | Machine Learning | Online, instructor-led | Not Yet Available |
+
+## Elective Courses (Complete at most 3)
+
+| Course Code | Course Title | Delivery | Status |
+|-------------|--------------|----------|--------|
+| CS228 | Probabilistic Graphical Models: Principles and Techniques | Online, instructor-led | Enrollment Closed |
+| CS230 | Deep Learning | Online, instructor-led | Not Yet Available |
+| CS231A | Computer Vision: From 3D Reconstruction to Recognition | Online, instructor-led | Enrollment Closed |
+| AA228 | Decision Making Under Uncertainty | Online, instructor-led | Not Yet Available |
+| CS231N | Deep Learning for Computer Vision | Online, instructor-led | Enrollment Closed |
+| CS237A | Principles of Robot Autonomy I | Online, instructor-led | Not Yet Available |
+| CS234 | Reinforcement Learning | Online, instructor-led | Enrollment Closed |
+| CS157 | Computational Logic | Online, instructor-led | Enrollment Closed |
+| CS236 | Deep Generative Models | Online, instructor-led | Enrollment Closed |
+| CS223A | Introduction to Robotics | Online, instructor-led | Enrollment Closed |
+| CS237B | Principles of Robot Autonomy II | Online, instructor-led | Enrollment Closed |
+| CS224N | Natural Language Processing with Deep Learning | Online, instructor-led | Enrollment Closed |
+| CS330 | Deep Multi-task and Meta Learning | Online, instructor-led | Enrollment Closed |
+| CS224R | Deep Reinforcement Learning | Online, instructor-led | No Longer Available |
+| CS246 | Mining Massive Data Sets | Online, instructor-led | Enrollment Closed |
+| CS224U | Natural Language Understanding | Online, instructor-led | Enrollment Closed |
+| CS224W | Machine Learning with Graphs | Online, instructor-led | Not Yet Available |
+
+## Notes
+- All courses are delivered online and instructor-led.
+- Course availability may change. Please check the official Stanford website for the most up-to-date information.
+- Students are required to complete at least 1 course from the Required section and up to 3 courses from the Elective section.

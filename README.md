@@ -189,3 +189,19 @@ Remember, this is a suggested path. Feel free to adjust based on your interests 
 - All courses are delivered online and instructor-led.
 - Course availability may change. Please check the official Stanford website for the most up-to-date information.
 - Students are required to complete at least 1 course from the Required section and up to 3 courses from the Elective section.
+
+
+
+Juan Galvan의 Skillpro 머신 러닝 코스: skillpro.io
+
+Andrew Ng의 Coursera 머신 러닝 과정: coursera.org
+
+Fast.ai의 코더를 위한 실용적인 딥 러닝 코스: course.fast.ai
+
+edX의 인공지능(AI) 입문 과정: edx.org
+
+스탠포드 대학의 CS229: 머신 러닝 과정: cs229.stanford.edu
+
+Google의 머신러닝 집중 강좌: developer.google.com
+
+![ml-engineer](https://github.com/user-attachments/assets/de52dc3a-a88d-4e65-936b-9e336069851e)

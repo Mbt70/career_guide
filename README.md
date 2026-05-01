@@ -1,12 +1,25 @@
 # AI Learning Resources
 
-This repository contains a curated list of resources for learning about Artificial Intelligence, Machine Learning, and Deep Learning.
+> Historical learning and career research notes on AI, machine learning, and industrial engineering.
 
+## Repository Status
 
-## 군입대 전 계획
+This repository is a personal research archive from an earlier stage of my AI/ML learning journey.
+It is not a polished curriculum or a complete guide.
+
+I keep it public because it shows how I explored:
+
+- AI/ML learning resources,
+- industrial engineering career directions,
+- study planning before deeper project work,
+- links between technical learning and long-term career positioning.
+
+Some notes may be outdated. More current project evidence is maintained through my profile README and case studies.
+
+## Historical Study Plan
 1.파이썬 추월코스
 2. 개발자를 위한 선형대수
-3. 딥러닝 Andrew ng  -> 밑바닥 딥러닝 
+3. 딥러닝 Andrew ng  -> 밑바닥 딥러닝
 4. 확률론 (이충락 or 하버드)
 
 
@@ -91,7 +104,7 @@ Here's a suggested learning path for AI, Machine Learning, and Computer Science:
 8. **AI Ethics and Business Applications**
    - AI for Everyone
    - Deep Learning for Business
-  
+
 
 
 
